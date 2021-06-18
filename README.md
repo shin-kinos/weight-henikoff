@@ -11,7 +11,7 @@ You can compile this program with `Cargo`🦀📦.
 
 ```
 % cd weight-henikoff-main
-% cargo build release
+% cargo build --release
 ```
 
 ## Input file format
