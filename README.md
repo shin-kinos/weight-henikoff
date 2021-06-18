@@ -2,7 +2,7 @@
 A small program calculates sequence weighting in MSA using Position Based Method.
 
 ## Description
-* It calculates weighting scores in MSA to reduce sequence redundancy using Position Based Method by Henikoff[1].
+* It calculates weighting scores in MSA to reduce sequence redundancy using Position Based Method by Henikoff-Henikoff[1].
 
 ## How to compile
 You can compile this program with `Cargo`🦀📦.
