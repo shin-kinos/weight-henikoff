@@ -1,5 +1,5 @@
 [package]
-name = "weight_henikoff"
+name = "weight-henikoff"
 version = "0.1.0"
 authors = ["shintarokinoshita"]
 edition = "2018"
