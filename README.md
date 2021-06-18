@@ -28,7 +28,7 @@ Options :
 [e.g.]
 
 ```
-% ./weight_henikoff -i input.fasta -t yes
+% ./weight-henikoff -i input.fasta -t yes
 ```
 
 Type `-h` to see a help.
