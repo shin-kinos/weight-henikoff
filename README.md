@@ -36,5 +36,7 @@ Type `-h` to see a help.
 ## Result
 Number `\t` Weighting score `\t` Name of the sequence (the title line)
 
+<img width="1036" alt="image_res" src="https://user-images.githubusercontent.com/83740080/122624713-7e94de00-d0dc-11eb-8565-35bdbf161432.png">
+
 ## References
 1. Henikoff, Steven, and Jorja G. Henikoff. "Position-based sequence weights." Journal of molecular biology 243.4 (1994): 574-578.
